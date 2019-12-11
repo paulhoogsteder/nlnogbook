@@ -20,3 +20,10 @@ jeeves_:
   country: nl
   companies:
     - tuxis
+meanie:
+  full_name: Paul Hoogsteder
+  country: nl
+  companies:
+    - meanie
+    - novoserve
+    - a2b
