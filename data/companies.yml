@@ -8,3 +8,9 @@ tuxis:
 coloclue:
   name: Netwerkvereniging ColoClue
   asn: 8283
+meanie:
+  name: Meanie
+    asn: 31019
+novoserve:
+  name: Novoserve BV
+    asn: 24875
